@@ -1,0 +1,18 @@
+/*retira bora e espaçamento interno que o navegador coloca*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*tira as bolinhas que o navegador 
+coloca por padrão nas listas*/
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
